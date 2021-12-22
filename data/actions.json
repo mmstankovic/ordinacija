@@ -1,0 +1,5 @@
+[
+    {"id": 1, "dijagnostika": "Ekg", "vrsta": "Pregled lekara specijaliste interne medicine", "popust": "20%", "trajanje": "Akcija istekla"},
+    {"id": 2, "dijagnostika": "Ultrazvuk", "vrsta": "Pregled lekara specijaliste radiologa", "popust": "10%", "trajanje": "Akcija traje do kraja jula"},
+    {"id": 3, "dijagnostika": "Laboratorija", "vrsta": "Pregled lekara specijaliste opšte midicine + Laboratorijske analize", "popust": "20%", "trajanje": "Akcija traje do kraja jula"}
+]
